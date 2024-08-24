@@ -33,7 +33,7 @@ body{
     box-shadow: 0 0 0 10px #3b3f8644,
     0 0 50px #3b3f86,
     0 0 100px #3b3f86;
-    animation: animate 20s linear infinite;
+    animation: animate 25s linear infinite;
     animation-duration: calc(200s / var(--i));
 }
 .bubbles span:nth-child(even){
