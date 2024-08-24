@@ -8,20 +8,20 @@ let words = [
         hint: "Protecting digital assets and information"
     },
     {
-        word: "emotional intelligence",
-        hint: "Understanding and managing emotions,building relationships"
+        word: "water",
+        hint: "We drink it to survive"
     },
     {
         word: "programming",
         hint: "Developing software applications and systems."
     },
     {
-        word: "biomedical",
-        hint: "Engineering based on biology"
+        word: "doctor",
+        hint: "Helps cure sick people"
     },
     {
-        word: "digital literacy",
-        hint: "Effectively using technology for communication, learning, and productivity"
+        word: "trampoline",
+        hint: "You can bounce on this"
     },
     {
         word: "innovation",
@@ -37,19 +37,19 @@ let words = [
     },
     {
         word: "reskilling",
-        hint: "Skilling, ______ and upskillin for socio-economic transformation"
+        hint: "Skilling, ______ and upskilling for socio-economic transformation"
     },
     {
-        word: "uranium",
-        hint: "Used in nuclear weaponry"
+        word: "sugar",
+        hint: "Tastes sweet in tea"
     },
     {
-        word: "country",
-        hint: "A politically identified region"
+        word: "pilot",
+        hint: "Flies an aerlane"
     },
     {
-        word: "artificial intelligence",
-        hint: "Man-made intelligence developed by software engineers"
+        word: "gourmet",
+        hint: "A _______ chef prepares luxurious food"
     },
     {
         word: "nitrogen",
