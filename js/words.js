@@ -24,8 +24,8 @@ let words = [
         hint: "You can bounce on this"
     },
     {
-        word: "innovation",
-        hint: "Developing new solutions for problems"
+        word: "beautiful",
+        hint: "opposite of ugly"
     },
     {
         word: "google",
@@ -48,12 +48,12 @@ let words = [
         hint: "Flies an aerlane"
     },
     {
-        word: "gourmet",
-        hint: "A _______ chef prepares luxurious food"
+        word: "chef",
+        hint: "A ______ prepares luxurious food"
     },
     {
-        word: "nitrogen",
-        hint: "Used in fast freezing of food in the culinary industry"
+        word: "peace",
+        hint: "White on our national flag represents _____"
     },
     {
         word: "sustainability",
@@ -64,12 +64,12 @@ let words = [
         hint: "Digital space that merges virtual and physical realities"
     },
     {
-        word: "cantilever",
-        hint: "Beam that is supported perpendicularly in construction"
+        word: "Harare",
+        hint: "capital city of Zimbabwe"
     },
     {
-        word: "data analytics",
-        hint: "Making sense of large volumes of data"
+        word: "apple",
+        hint: "Delicious, crunchy fruit"
     },
     {
         word: "hologram",
@@ -80,15 +80,15 @@ let words = [
         hint: "AI language model"
     },
     {
-        word: "Revair",
-        hint: "Hair dryer that dries like a vacuum rather than blowing"
+        word: "ZWG",
+        hint: "Our local currency"
     },
     {
         word: "cryptocurrency",
         hint: "Online form of money"
     },
     {
-        word: "Dall E",
-        hint: "AI image generation model"
+        word: "indigo",
+        hint: "Sixth colour of the rainbow"
     },
 ]
